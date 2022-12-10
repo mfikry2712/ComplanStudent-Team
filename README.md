@@ -7,3 +7,6 @@ Muhammad Fikry
 - Membuat activity laporan oknum dengan firebase
 - Membuat activity laporan fasiliyas dengan firebase
 - Membuat activity menu
+
+
+Aplikasi Finish tanpa history karena kesalahan pada saat push
